@@ -1,0 +1,217 @@
+@media (min-width:640px) and (max-width:810px) {
+
+    .head,
+    .head2 {
+        width: 100%;
+        height: 38vh;
+    }
+
+    .simple {
+        width: 280px;
+        margin-top: 65px;
+        display: inline-block;
+    }
+
+    .simple h2 {
+        font-size: 28px;
+        padding: 0px 0px 10px 0px;
+    }
+
+    .simple p {
+        display: none;
+    }
+
+    .simple h3 {
+        font-size: 16px;
+    }
+
+    .simple h6 {
+        font-size: 12px;
+    }
+
+    .simple button {
+        margin: 0px;
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+
+    .take h2,
+    .taken h2 {
+        font-size: 40px;
+    }
+
+    .item {
+        padding: 50px;
+    }
+}
+
+@media (min-width:375px) and (max-width:480px) {
+
+    .sz a i,
+    .zs a i {
+        font-size: 17px;
+        padding: 0px 4px;
+    }
+
+    .zs a i {
+        font-size: 15px;
+        padding: 0px 3px;
+    }
+
+    .log a img {
+        width: 85px;
+    }
+
+    .nab ul li a {
+        font-size: 16px;
+    }
+
+    .head,
+    .head2 {
+        width: 100%;
+        height: 28vh;
+    }
+
+    .simple {
+        width: 280px;
+        margin-top: 20px;
+        display: inline-block;
+    }
+
+    .simple h2 {
+        font-size: 23px;
+        padding: 0px 0px 10px 0px;
+    }
+
+    .simple p {
+        display: none;
+    }
+
+    .simple h3 {
+        font-size: 16px;
+    }
+
+    .simple h6 {
+        font-size: 12px;
+    }
+
+    .simple button {
+        margin: 0px;
+        padding: 5px 15px;
+        font-size: 12px;
+    }
+
+    .take h2,
+    .taken h2 {
+        font-size: 30px;
+    }
+
+    .item {
+        margin: 40px 0px;
+        padding: 80px;
+    }
+
+    .late h2 {
+
+        font-size: 40px;
+    }
+
+    .late p {
+        font-size: 14px;
+    }
+
+    .late button {
+        padding: 8px 18px;
+        font-size: 15px;
+    }
+
+    .logo {
+        width: 80px;
+    }
+}
+
+@media (min-width:320px) and (max-width:360px) {
+
+    .sz a i,
+    .zs a i {
+        font-size: 17px;
+        padding: 0px 4px;
+    }
+
+    .zs a i {
+        font-size: 15px;
+        padding: 0px 3px;
+    }
+
+    .log a img {
+        width: 85px;
+    }
+
+    .nab ul li a {
+        font-size: 16px;
+    }
+
+    .head,
+    .head2 {
+        width: 100%;
+        height: 25vh;
+    }
+
+    .simple {
+        width: 280px;
+        margin-top: 20px;
+        display: inline-block;
+    }
+
+    .simple h2 {
+        font-size: 21px;
+        padding: 0px 0px 10px 0px;
+    }
+
+    .simple p {
+        display: none;
+    }
+
+    .simple h3 {
+        font-size: 12px;
+        padding: 0px;
+    }
+
+    .simple h6 {
+        font-size: 12px;
+    }
+
+    .simple button {
+        margin: 0px;
+        padding: 5px 15px;
+        font-size: 12px;
+    }
+
+    .take h2,
+    .taken h2 {
+        font-size: 30px;
+    }
+
+    .item {
+        margin: 40px 0px;
+        padding: 40px;
+    }
+
+    .late h2 {
+
+        font-size: 30px;
+    }
+
+    .late p {
+        font-size: 14px;
+    }
+
+    .late button {
+        padding: 8px 18px;
+        font-size: 15px;
+    }
+
+    .logo {
+        width: 80px;
+    }
+}

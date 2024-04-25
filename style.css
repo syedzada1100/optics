@@ -1,0 +1,234 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style-type: none;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.top {
+    width: 100%;
+    background-color: #292d38;
+    padding: 12px 0px;
+    display: inline-block;
+}
+
+.sz a i,
+.zs a i {
+    font-size: 21px;
+    padding: 0px 8px;
+    color: #fff;
+    transition: all linear 200ms;
+}
+
+.zs a i {
+    font-size: 18px;
+    transition: all linear 200ms;
+}
+
+.zs a i:hover {
+    font-size: 20px;
+}
+
+.nab ul li {
+    padding: 0px 5px;
+}
+
+.nab ul li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: #43454e !important;
+}
+
+.nab ul li a::after {
+    content: '';
+    width: 0%;
+    height: 3px;
+    background: #5a6072;
+    display: block;
+    transition: all linear 300ms;
+}
+
+.nab ul li a:hover::after {
+    width: 100%;
+}
+
+.head,
+.head2 {
+    width: 100%;
+    height: 600px;
+    background: url(images/img1.jpg) no-repeat left top;
+    background-size: cover;
+}
+
+.head2 {
+    background: url(images/img2.jpg) no-repeat left top;
+    background-size: cover;
+}
+
+.simple {
+    width: 500px;
+    margin-top: 150px;
+    display: inline-block;
+}
+
+.simple h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    color: #fff;
+    padding: 0px 0px 20px 0px;
+}
+
+.simple h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #fff;
+    padding: 10px 0px;
+}
+
+.simple p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.simple button {
+    margin: 10px 0px;
+    padding: 14px 30px;
+}
+
+.jadu {
+    width: 100%;
+    text-align: center;
+    margin: 60px 0px;
+}
+
+.jadu img {
+    width: 65px;
+    margin: 25px 0px;
+}
+
+.cate h2,
+.cate h4,
+.cate p,
+.jadu h6,
+.jadu p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3c3c3d;
+}
+
+.jadu h6,
+.cate h4 {
+    font-weight: bold;
+}
+
+.cate p,
+.jadu p {
+    color: #45474b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.item {
+    margin: 50px 0px;
+    padding: 50px;
+}
+
+.late h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    padding: 20px 0px;
+}
+
+.late p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 12px;
+}
+
+.testimonial {
+    text-align: center;
+}
+
+.testimonial .pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #fff;
+    margin: 20px auto;
+}
+
+.testimonial .pic img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.testimonial .title {
+    font-size: 20px;
+    font-weight: 700;
+    color: gray;
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+}
+
+.testimonial .description {
+    font-size: 15px;
+    color: #999;
+    border-bottom: 1px solid #f7f7f7;
+    padding: 0px 48px;
+}
+
+.testimonial .rating li {
+    display: inline-block;
+    color: #eabd44;
+}
+
+.foter h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+    padding: 20px 0px;
+    margin-top: 12px;
+}
+
+.foter p a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.foter p a:hover {
+    color: #eabd44;
+}
+
+.card {
+    box-shadow: 0px 0px 15px #999;
+    transition: all linear 200ms;
+}
+
+.card:hover {
+    box-shadow: 0px 0px 50px #6b6b6b;
+}
+
+.taken {
+    margin: 100px 0px;
+}
+
+.take h2,
+.taken h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+form label {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #3c3c3d;
+}
+
+textarea {
+    resize: none;
+}
